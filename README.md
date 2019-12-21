@@ -15,3 +15,9 @@ Random snack calculator that takes the integer length of the string (user input)
 # FizzBuzz
 
 Determines what number is "Fizz", "Buzz" or "FizzBuzz" 
+
+# FINAL PROJECT: One Humanity 
+
+
+Project Repo:
+<a href = "https://github.com/AnnieGregg/kwk-l1-flowchart-project-template-kwk-students-l1-chi-080618/tree/master/app"> Click Here </a>
