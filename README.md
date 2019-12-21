@@ -21,5 +21,6 @@ Description: I lead a group of 4 girls to develop a web application that connect
 
 
 <strong> Project Link: </strong> http://one-humanity.herokuapp.com/
-Project Repo:
+<break>
+  <strong>Project Repo:</strong>
 <a href = "https://github.com/AnnieGregg/kwk-l1-flowchart-project-template-kwk-students-l1-chi-080618/tree/master/app"> Click Here </a>
