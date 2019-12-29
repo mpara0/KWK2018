@@ -1,4 +1,4 @@
-# KWK2018
+# Kode With Klossy 2018 SHECAGO 
 
 Below, are some of the projects I worked on during the 2018 Kode With Klossy Camp.
 
@@ -6,7 +6,7 @@ Although these projects are very silly, these are some of the projects that help
 
 Here is a brief description of each project:
 
-# MADLIB GENERATOR
+# Madlib Generator
 Applying the concepts of conditionals, defining methods, and user input in Ruby- I created a mini MadLib game in the command line, where the computer takes user input, saved as a variable, and appears on the command line. Only Option A and B works
 
 # snackCaclulator
