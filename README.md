@@ -12,7 +12,7 @@ Applying the concepts of conditionals, defining methods, and user input in Ruby-
 # snackCaclulator
 Random snack calculator that takes the integer length of the string (user input) and spits out what snack the user should have based on the calculations.
 
-# FizzBuzz
+# <a href = "http://one-humanity.herokuapp.com/"> FizzBuzz</a>
 
 Determines what number is "Fizz", "Buzz" or "FizzBuzz" 
 
