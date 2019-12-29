@@ -6,13 +6,13 @@ Although these projects are very silly, these are some of the projects that help
 
 Here is a brief description of each project:
 
-# Madlib Generator
+#  <a href = "https://github.com/mpara0/KWK2018/blob/master/madlib.rb"> Madlib Generator</a>
 Applying the concepts of conditionals, defining methods, and user input in Ruby- I created a mini MadLib game in the command line, where the computer takes user input, saved as a variable, and appears on the command line. Only Option A and B works
 
-# snackCaclulator
+# <a href = "https://github.com/mpara0/KWK2018/blob/master/snackCalculator.rb">Snack Calculator</a>
 Random snack calculator that takes the integer length of the string (user input) and spits out what snack the user should have based on the calculations.
 
-# <a href = "http://one-humanity.herokuapp.com/"> FizzBuzz</a>
+# <a href = "https://github.com/mpara0/KWK2018/blob/master/fizzbuzz.rb/"> FizzBuzz</a>
 
 Determines what number is "Fizz", "Buzz" or "FizzBuzz" 
 
