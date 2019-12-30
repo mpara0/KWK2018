@@ -17,7 +17,9 @@ Random snack calculator that takes the integer length of the string (user input)
 Determines what number is "Fizz", "Buzz" or "FizzBuzz" 
 
 # FINAL PROJECT👩‍💻: <a href = "http://one-humanity.herokuapp.com/"> One Humanity </a>
-Description: I lead a group of 4 girls to develop a web application that connects users to different non-profits by completing a quiz. The tools that were used in the project were HTML/CSS/Ruby and domain is ran under Herokuapp. In terms of my contributions to the project, I lead the idealization of One Humanity such as wire-framing and primarily focused on the Front-End development of the site using HTML/CSS. Helped with bugs on the backend for the quiz
+Description: I lead a group of 4 girls to develop a web application that connects users to different non-profits by completing a quiz. 
+Tools: HTML/CSS, Ruby; site deployed to Herokuapp
+What I did: lead the idealization of One Humanity such as wire-framing and primarily focused on the Front-End development of the site using HTML/CSS. Helped with bugs on the backend for the quiz
 
 
 
