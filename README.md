@@ -12,7 +12,7 @@ Applying the concepts of conditionals, defining methods, and user input in Ruby-
 # <a href = "https://github.com/mpara0/KWK2018/blob/master/snackCalculator.rb">Snack Calculator🍿</a>
 Random snack calculator that takes the integer length of the string (user input) and spits out what snack the user should have based on the calculations.
 
-# <a href = "https://github.com/mpara0/KWK2018/blob/master/fizzbuzz.rb/"> FizzBuzz🖲️</a>
+# <a href = "https://github.com/mpara0/KWK2018/blob/master/fizzbuzz.rb/"> FizzBuzz</a>
 
 Determines what number is "Fizz", "Buzz" or "FizzBuzz" 
 
